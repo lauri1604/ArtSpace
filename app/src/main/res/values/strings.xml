@@ -2,6 +2,8 @@
     <string name="app_name">Art Space</string>
     <string name="art_title">Busto de Paris</string>
     <string name="art_details">Antonio Canova (1809)</string>
+    <string name="art_title_bedroom">El dormitorio en Arlés</string>
+    <string name="art_details_bedroom">Vincent van Gogh (1889)</string>
     <string name="previous_button">Previous</string>
     <string name="next_button">Next</string>
 </resources>
